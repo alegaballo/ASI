@@ -1,0 +1,7 @@
+# ignoring slides and recordings
+slides/
+recordings/
+
+#ignoring datasets
+assesment/MNIST/
+assesment/CIFAR10/
