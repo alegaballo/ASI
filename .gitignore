@@ -5,3 +5,6 @@ recordings/
 #ignoring datasets
 assesment/MNIST/
 assesment/CIFAR10/
+
+#ignoring jupyter notebooks stuff
+assesment/.ipynb_checkpoints/
